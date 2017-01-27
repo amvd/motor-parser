@@ -1,0 +1,21 @@
+.list p {
+  margin: 0;
+}
+
+.list > li {
+  margin-bottom: 10px;
+}
+
+p, li {
+  font-size: 10pt;
+  font-family: arial;
+}
+
+#results-box h1 {
+  font-size: 1.4em;
+}
+
+#results-box h3 {
+  padding-left: 12px;
+  font-size: 1.2em;
+}
